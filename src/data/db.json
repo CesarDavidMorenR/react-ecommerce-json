@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Desk1",
+      "slug": "desk1",
+      "price": 90,
+      "quantity": 1,
+      "img": "https://www.flexispot.es/media/catalog/product/cache/d5ac80d2dc6c04a9bf4ba1edf6638b5d/e/t/et114f-n-1-800.jpg",
+      "category": "Desks",
+      "description": "Lorem fistrum ese hombree eiusmod a peich torpedo velit occaecat ese pedazo de. Ahorarr officia diodeno pupita reprehenderit. "
+    },
+    {
+      "id": 2,
+      "title": "Desk2",
+      "slug": "desk2",
+      "price": 105,
+      "quantity": 1,
+      "img": "https://www.flexispot.es/media/catalog/product/cache/d5ac80d2dc6c04a9bf4ba1edf6638b5d/1/1/114e-1600_view04_view01_1_1.jpg",
+      "category": "Desks",
+      "description": "Lorem fistrum ese hombree eiusmod a peich torpedo velit occaecat ese pedazo de. Ahorarr officia diodeno pupita reprehenderit. "
+    },
+    {
+      "id": 3,
+      "title": "Desk3",
+      "slug": "desk3",
+      "price": 66,
+      "quantity": 1,
+      "img": "https://pfimage.tidebuy.net/PFImage/Product/2020/5/27/29edae6a-ac3d-4d33-b075-b216726d137c.jpg",
+      "category": "Desks",
+      "description": "Lorem fistrum ese hombree eiusmod a peich torpedo velit occaecat ese pedazo de. Ahorarr officia diodeno pupita reprehenderit. "
+    },
+    {
+      "id": 4,
+      "title": "Desk4",
+      "slug": "desk4",
+      "price": 87,
+      "quantity": 1,
+      "img": "https://i5.walmartimages.com/asr/76873656-8e41-4608-a7ec-c31e4579b1cd.8285b8226db941370f81852921b1da23.jpeg",
+      "category": "Desks",
+      "description": "Lorem fistrum ese hombree eiusmod a peich torpedo velit occaecat ese pedazo de. Ahorarr officia diodeno pupita reprehenderit. "
+    },
+    {
+      "id": 5,
+      "title": "Desk5",
+      "slug": "desk5",
+      "price": 100,
+      "quantity": 1,
+      "img": "https://www.dshop.com.au/assets/full/Y08-120-B.jpg?20180509134734",
+      "category": "Desks",
+      "description": "Lorem fistrum ese hombree eiusmod a peich torpedo velit occaecat ese pedazo de. Ahorarr officia diodeno pupita reprehenderit. "
+    },
+    {
+      "id": 6,
+      "title": "Desk6",
+      "slug": "desk6",
+      "price": 77,
+      "quantity": 1,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81i-mtS0-FL._AC_SL1500_.jpg",
+      "category": "Desks",
+      "description": "Lorem fistrum ese hombree eiusmod a peich torpedo velit occaecat ese pedazo de. Ahorarr officia diodeno pupita reprehenderit. "
+    },
+    {
+      "id": 7,
+      "title": "Desk7",
+      "slug": "desk7",
+      "price": 65,
+      "quantity": 1,
+      "img": "https://www.homethreads.com/files/bush-furniture/cab001ac-02.jpg",
+      "category": "Desks",
+      "description": "Lorem fistrum ese hombree eiusmod a peich torpedo velit occaecat ese pedazo de. Ahorarr officia diodeno pupita reprehenderit. "
+    }
+  ],
+  "users": [
+    {
+      "name": "sdsad",
+      "username": "dsad",
+      "email": "cesardaviddev@gmail.com",
+      "password": "hxx*Ry;gk7",
+      "discountActivated": false,
+      "id": 2
+    },
+    {
+      "name": "RAMIREZ",
+      "username": "PATRICIA",
+      "email": "Pkkag123@hotmail.es",
+      "password": "9aU1>gh5-f",
+      "discountActivated": false,
+      "id": 3
+    },
+    {
+      "name": "CESAR DAVID",
+      "username": "yhgfZs",
+      "email": "cesardasdviddev@gmail.com",
+      "password": "9aU1>gh5-f",
+      "discountActivated": false,
+      "id": 4
+    },
+    {
+      "name": "CESAR DAVID",
+      "username": "REZ",
+      "email": "asdasd@gmail.com",
+      "password": "TnAgk.fV:PXKM5",
+      "discountActivated": false,
+      "id": 5
+    },
+    {
+      "name": "CESAR DAVID",
+      "username": "MOREOZ",
+      "email": "cesardafdfdviddev@gmail.com",
+      "password": "V%h,v)bfC6",
+      "discountActivated": false,
+      "id": 6
+    }
+  ]
+}

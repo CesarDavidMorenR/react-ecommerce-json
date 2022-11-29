@@ -1,0 +1,100 @@
+/*======================
+    404 page
+=======================*/
+
+body {
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.page_404 {
+    font-family: "Avenir LT Pro 65 Medium", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif !important;
+    padding: 40px 0;
+    background: #fff;
+}
+
+.page_404 img {
+    width: 100%;
+}
+
+.container-errorPage {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.four_zero_four_bg {
+
+    background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+    height: 400px;
+    background-position: center;
+}
+
+
+.four_zero_four_bg h1 {
+    font-size: 80px;
+}
+
+.four_zero_four_bg h3 {
+    font-size: 80px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.link_404 {
+    color: #fff !important;
+    padding: 10px 20px;
+    background: #39ac31;
+    margin: 20px 0;
+    display: inline-block;
+
+    a {
+        text-decoration: none;
+    }
+}
+
+.contant_box_404 {
+    margin-top: -50px;
+}
+
+.h2, h2 {
+    font-size: 30px;
+}
+
+p {
+    margin: 0 0 10px;
+}
+
+
+
+
+@media (min-width: 1200px) {
+
+    .container-errorPage {
+        width: 1170px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container-errorPage {
+        width: 970px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container-errorPage {
+        width: 750px;
+    }
+}
